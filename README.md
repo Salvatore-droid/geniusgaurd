@@ -2,7 +2,7 @@
 
 A full-stack web application for automated security scanning of websites and web applications. GeniusGuard performs quick and deep security scans, identifies vulnerabilities across multiple categories (SSL/TLS, security headers, cookies, content security), and provides actionable remediation guidance.
 
----
+
 
 ## Tech Stack
 
