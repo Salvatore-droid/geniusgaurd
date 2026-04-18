@@ -1,5 +1,5 @@
 // src/lib/api.ts
-const API_BASE_URL = 'http://localhost:8000/api';
+const API_BASE_URL = 'https://geniusgaurdbackend.onrender.com/api';
 
 // ==================== User Types ====================
 
